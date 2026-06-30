@@ -1,0 +1,54 @@
+.subheader{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    border-style: dashed;
+    border-color: aquamarine;
+    border-radius: 30px;
+    background-color: lightblue;
+    color: darkcyan
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightpink;
+}
+header{
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightpink;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttonContent{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: lightpink;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.killSwitchButtonSection{
+    display: flex;
+    justify-content: center;
+}
+.killSwitchButton{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: snow;
+    background-color: black;
+}
+ol {
+    text-align: left;
+}
+.chalTwoContent{
+    display: flex;
+    justify-content: center;
+}
